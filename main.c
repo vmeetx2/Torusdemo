@@ -8,7 +8,6 @@
 #include <unistd.h>
 #define sleep_ms(x) usleep((x) * 1000)
 #endif
-
 #define WIDTH 80
 #define HEIGHT 40
 #define R1 1.0
@@ -36,7 +35,6 @@ void render_frame(double A, double B) {
     for (double theta = 0; theta < 2 * M_PI; theta += THETA_STEP) {
         double costheta = cos(theta);
         double sintheta = sin(theta);
-
         for (double phi = 0; phi < 2 * M_PI; phi += PHI_STEP) {
             double cosphi = cos(phi);
             double sinphi = sin(phi);
