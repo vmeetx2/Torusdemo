@@ -7,3 +7,9 @@ This is a sample toy project to see if i could apply the theoretical math enough
 
 
 Open for input - 
+
+
+
+edit 2: 
+
+I wanted to try supersampling, but im not sure its practical given youd have to loop over pixel offsets , accumulate birhgtness per pixel, average and map to charset
