@@ -1,3 +1,6 @@
+THIS ISNT MY SEM-1 PROJECT, THIS WAS FOR FUN
+
+
 This is a sample toy project to see if i could apply the theoretical math enough, here are some points i want to try later
 
 1) increasing angular resolution (theta step and phi step to 0.03 and 0,01)
