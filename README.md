@@ -1,5 +1,5 @@
-THIS ISNT MY SEM-1 PROJECT, THIS WAS FOR FUN
-
+Sem - 1 project for university
+Famous spinning torus with self implementation
 
 This is a sample toy project to see if i could apply the theoretical math enough, here are some points i want to try later
 
